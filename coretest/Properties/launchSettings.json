@@ -1,0 +1,1 @@
+{  "profiles": {    "coretest": {      "commandName": "Project",      "environmentVariables": {        "ASPNETCORE_ENVIRONMENT": "Development"      }    }  }}
